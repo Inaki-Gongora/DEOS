@@ -1,0 +1,14 @@
+# Ignorar entorno virtual
+venv/
+
+# Ignorar archivos de sistema de Windows
+Thumbs.db
+Desktop.ini
+
+# Ignorar carpetas de sincronización
+*.sync
+*.tmp
+
+# Ignorar configuraciones de IDEs (por si usan VSCode, PyCharm, etc)
+.vscode/
+.idea/
