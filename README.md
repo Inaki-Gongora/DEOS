@@ -1,4 +1,4 @@
-# Proyecto DEOS (Decentralized Enhanced Omniscient System)
+# Proyecto DEOS (Data Enhanced Operating System)
 
 ## Descripción
 DEOS es un sistema de trading automatizado basado en inteligencia artificial (IA) que toma decisiones de inversión en criptomonedas utilizando más de 700 variables en tiempo real. Su objetivo es maximizar los retornos mediante un análisis profundo de datos económicos, políticos, sociales y tecnológicos, sin intervención humana.
